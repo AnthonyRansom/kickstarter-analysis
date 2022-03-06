@@ -43,17 +43,17 @@ compared to how much was pledged.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?<br/>
 	From the analysis of the outcomes based on launch date there are two conlusions:
 	- There is an increase in the number of successful campaign between the month of March and May
 	- During the decline of successful campaigns after the month of May the number of failed campaigns does not sharply increase which would indicate there are less campaigns running during that period
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?<br/>
 	From the analysis of the outcomes based on goals it is clear it would be safest to keep the funding goal below 15,000 but the data indicates an increase in successful campaigns between 35,000 and 40,000.
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?<br/>
 	The dataset shows multiple currencies but does not indicate any exchagne rates at the time of the campaign making it difficult to analysis on an international level
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?<br/>
 	Additoanl tables and graphs could be made to show the outcomes comapred to the duration of the campaign to see if the duration of the campaign would result in a higher success/failure rate
 
