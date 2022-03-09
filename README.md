@@ -13,7 +13,7 @@ along with the outcome succes/failure rate based on the kickstarter goal.
 
 ![Theater_Outcomes_vs_Launch_Image](/resources/Theater_Outcomes_vs_Launch.png)
 
-From the [kickstarter campaigns dataset](/Kickstarter_Challenge.xlsx) and using the provided graph labeled "Theater outcomes Based on Launch Date" it was found 
+From the [kickstarter campaigns dataset](/Kickstarter_Challenge.xlsx) and using the provided graph labeled [Theater outcomes Based on Launch Date](/resources/Theater_Outcomes_vs_Launch) it was found 
 that starting from the month of March the number of successful campaigns increased sharply until the Month of May where 
 it was found the number of succesful campaigns went into a decline.
 
@@ -27,7 +27,7 @@ against other campaigns but running the campaign during other times of the year 
 
 ### Analysis of Outcomes Based on Goals
 
-From the Outcomes based on goals graph it is clear the higher the funding the goal the more likely it is for the campaign to fail.
+From the [Outcomes based on goals graph](/resources/Outcomes_vs_Goals) it is clear the higher the funding the goal the more likely it is for the campaign to fail.
 The majority campaigns that are successful have a funding goal up to 20,000 but there is a funding goal range of betwwen 35,000 and 40,000
 that the number of succeful campaigns increases again.
 
