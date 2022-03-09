@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+Louise Would like to compare the outcome of other kickstarter campaigns compared to the outcome of her campaign.
 The purpose of this analysis is to determine the outcomes of the theater kickstarter campaigns for each month of the year in order to provide insight into the time of year campaigns generally succeed 
 along with the outcome succes/failure rate based on the kickstarter goal.
 
@@ -12,7 +13,7 @@ along with the outcome succes/failure rate based on the kickstarter goal.
 
 ![Theater_Outcomes_vs_Launch_Image](/resources/Theater_Outcomes_vs_Launch.png)
 
-From the kickstart campaigns dataset and using the provided graph labeled "Theater outcomes Based on Launch Date" it was found 
+From the [kickstarter campaigns dataset](/Kickstarter_Challenge.xlsx) and using the provided graph labeled "Theater outcomes Based on Launch Date" it was found 
 that starting from the month of March the number of successful campaigns increased sharply until the Month of May where 
 it was found the number of succesful campaigns went into a decline.
 
